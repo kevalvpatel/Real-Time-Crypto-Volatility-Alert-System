@@ -29,7 +29,7 @@ Cryptocurrency prices are highly volatile. This project monitors top coins and t
 ---
 
 ## Architecture
-![Architectural Diagram](img/Architectural Diagram.png)
+![Architectural Diagram](img/Architecture.png)
 
 ## Data Pipeline
 ![Pipeline](/img/Pipeline.png)
