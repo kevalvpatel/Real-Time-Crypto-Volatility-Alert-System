@@ -96,3 +96,8 @@ Example Message:
 Current Price: $95,534
 Time: 2025-04-29 10:41 AM
 ```
+
+---
+
+## Dashboard
+![Architectural Diagram](img/Dashboard.png)
